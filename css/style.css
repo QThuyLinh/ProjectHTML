@@ -52,13 +52,15 @@
 .banner .container h2{
     margin-bottom: 40px;
     color: #333333;
+    font-family: Normal,sans-serif;
 }
 .banner .container h1{
     margin-bottom: 60px;
 }
 .banner .container .col-sm-5 p{
     margin-bottom: 50px;
-    color: #000000;
+    color: #8d8d8d;
+    font-size: 13px;
 }
 .banner .container .row .button_about{
     background: #1769ff;
@@ -68,7 +70,7 @@
     padding: 10px 20px;
     border-radius: 32px;
 }
-/*services (content2 - 3hcn)*/
+/*services (3hcn)*/
 .services{
     background-color: #fafafa;
     height: 762px;
@@ -102,7 +104,7 @@
 .services .services_col .text2{
     margin-bottom: 50px;
     font-size: 15px;
-    color: #c4c4c4;
+    color: #8d8d8d;
 }
 .services .col2{
     box-shadow: 5px 30px 40px #dddddd;
@@ -162,7 +164,7 @@
 .make_it .container span{
     margin-bottom: 130px;
     font-size: 13px;
-    color: #c4c4c4;
+    color: #8d8d8d;
 
 }
 .make_it .container .button_about{
@@ -203,6 +205,7 @@
 }
 .feedback .container .row .text2{
     margin-bottom: 100px;
+    color: #8d8d8d;
 }
 .feedback .container .row .cham{
     font-size: 50px;
@@ -264,9 +267,10 @@
     background: #32ccfe;
 }
 .footer .row p{
-    margin-left: 550px;
+    margin-left: 400px;
     margin-top: 130px;
     margin-bottom: 60px;
+    color: #8d8d8d;
 }
 
 
